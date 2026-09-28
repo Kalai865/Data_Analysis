@@ -1,0 +1,12 @@
+Emp-id,number_projects,Promotion,Department,Salary
+1003,2,No,Sales,12000
+1005,5,Yes,IT,35000
+1486,7,No,Sales,15000
+1038,5,No,R and D,40000
+1057,2,Yes,IT,55000
+1060,2,Yes,R and D,30000
+1061,6,No,Sales,20000
+1752,5,Yes,Sales,45000
+1755,2,No,IT,60000
+1753,2,Yes,R and D,65000
+1754,3,Yes,IT,70000
